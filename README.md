@@ -1,4 +1,6 @@
 **Booki**
+
+
 Booki is a website which allows its users to find accommodation & activities in a town of their choosing.
 
 Selection can be filtered by budget or atmosphere.
